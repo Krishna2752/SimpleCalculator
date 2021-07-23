@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-image: url('https://images2.alphacoders.com/304/thumb-350-3042.png');
+}
+.App {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  grid-row-gap: 12px;
+  background-color: rgb(89, 149, 201);
+  border-radius: 10px; 
+  width: 300px;
+}
+h3 {
+  align-items: center;
+  text-align: center;
+}
+input {
+  text-align: center;
+}
+h2 {
+  align-items: center;
+  text-align: center;
+}
